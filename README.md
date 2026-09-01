@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Victoria Yiu`
-- **CCID:** `vyiu``
+- **CCID:** `vyiu`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
